@@ -125,6 +125,22 @@ class MyApp extends StatelessWidget {
                 ],
               ),
             ),
+            Container(
+              padding: EdgeInsets.symmetric(vertical: 10),
+              color: Colors.lime,
+              child: Row(
+                spacing: 10,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Icon(
+                    Icons.phone_android_rounded,
+                    color: Colors.black,
+                    size: 20,
+                  ),
+                  Text("+972-59-7613381"),
+                ],
+              ),
+            ),
             TextButton(
               onPressed: () {},
               child: Text("Contact Me", style: TextStyle(color: Colors.lime)),
