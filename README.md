@@ -1,16 +1,9 @@
 # first_project
 
-A new Flutter project.
+Profile View Screen.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is a simple profile page design that showcases a profile picture, name, and social media links. The page includes image icons for Facebook, LinkedIn, Instagram, and Google Maps location, along with a "Contact Me" text button.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile View](images\profile_view.png)
